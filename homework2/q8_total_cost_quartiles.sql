@@ -6,4 +6,4 @@ FROM
       (SELECT "Order".CustomerId, SUM((UnitPrice*Quantity)) AS exp FROM "Order" LEFT OUTER JOIN OrderDetail ON "Order".Id = OrderDetail.OrderId GROUP BY "Order".CustomerId)
     LEFT OUTER JOIN Customer ON CustomerId = Customer.Id)
 WHERE quartile=1
-ORDER BY CAST(exp AS float)
+ORDER BY CAST(exp AS float);
