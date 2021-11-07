@@ -6,5 +6,7 @@ homework and experiments of DataBase
 ## advance
 ### week1， 2021.9.1， branch: main 
 * 第一次作业：homework1目录  
-### week6,  2021.10.5，branch:main
+### week6,  2021.10.5，branch: main
 * 第二次作业：homework2目录
+### week10,  2021.11.7, branch: main
+* 第三次作业：homewor3目录
