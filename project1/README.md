@@ -1,18 +1,18 @@
 # SCU DB project1
 Source code for first-time-tasks shows in:
-```
-Task1
+
+* Task1
 src/include/hash/extendible_hash.h
 src/hash/extendible_hash.cpp
 
-Task2
+* Task2
 src/include/buffer/lru_replacer.h
 src/buffer/lru_replacer.cpp
 
-Task3
+* Task3
 src/include/buffer/buffer_pool_manager.h
 src/buffer/buffer_pool_manager.cpp
-```
+
 
 ### Build
 Using CLion to load Project1, then execute:
