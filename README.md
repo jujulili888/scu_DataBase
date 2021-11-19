@@ -11,4 +11,4 @@ homework and experiments of DataBase
 ### week10,  2021.11.7, branch: main
 * 第三次作业：homewor3目录
 ### week12,  2021.11.19, branch: main
-* 第三次作业project1目录
+* 第一次实验：project1目录
