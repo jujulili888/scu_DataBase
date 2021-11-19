@@ -28,9 +28,9 @@ make extendible_hash_test
 ./test/extendible_hash_test
 ```
 For different tasks, their test files are:
-*ExtendibleHashTable : test/hash/extendible_hash_test.cpp
-*LRUReplacer : test/buffer/lru_replacer_test.cpp
-*BufferPoolManager : test/buffer/buffer_pool_manager_test.cpp
+* ExtendibleHashTable : test/hash/extendible_hash_test.cpp
+* LRUReplacer : test/buffer/lru_replacer_test.cpp
+* BufferPoolManager : test/buffer/buffer_pool_manager_test.cpp
 
 ### Result
 All the test results are shown by pics in this directory.
